@@ -28,5 +28,7 @@ Finalmente, en la función hitbomb implementé una condición de fin de juego. L
 
 ![image](https://user-images.githubusercontent.com/97979648/153529436-def13656-48d8-49ed-916b-03b1a92263a9.png)
 
+![image](https://user-images.githubusercontent.com/97979648/153529562-2d98cd64-399b-49d6-8e52-aae8a563aa54.png)
+
 El juego está disponible en este repositorio para que se pueda probar.
 
